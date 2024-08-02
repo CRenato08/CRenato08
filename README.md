@@ -1,16 +1,14 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**CRenato08/CRenato08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Você entra em contato comigo 📫
+
+00001104653023sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/WZ1WWsjKyNAAAAAd/ronaldo-al-nassr.gif)
